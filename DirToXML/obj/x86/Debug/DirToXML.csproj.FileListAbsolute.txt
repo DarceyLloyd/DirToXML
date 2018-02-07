@@ -1,0 +1,13 @@
+c:\users\actimel\documents\visual studio 2010\Projects\DirToXML\DirToXML\bin\Debug\DirToXML.exe
+c:\users\actimel\documents\visual studio 2010\Projects\DirToXML\DirToXML\bin\Debug\DirToXML.pdb
+c:\users\actimel\documents\visual studio 2010\Projects\DirToXML\DirToXML\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\actimel\documents\visual studio 2010\Projects\DirToXML\DirToXML\obj\x86\Debug\DirToXML.Form1.resources
+c:\users\actimel\documents\visual studio 2010\Projects\DirToXML\DirToXML\obj\x86\Debug\DirToXML.Properties.Resources.resources
+c:\users\actimel\documents\visual studio 2010\Projects\DirToXML\DirToXML\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\actimel\documents\visual studio 2010\Projects\DirToXML\DirToXML\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\actimel\documents\visual studio 2010\Projects\DirToXML\DirToXML\obj\x86\Debug\DirToXML.exe
+c:\users\actimel\documents\visual studio 2010\Projects\DirToXML\DirToXML\obj\x86\Debug\DirToXML.pdb
+c:\users\actimel\documents\visual studio 2010\Projects\DirToXML\DirToXML\bin\Debug\DirToXML.exe.manifest
+c:\users\actimel\documents\visual studio 2010\Projects\DirToXML\DirToXML\bin\Debug\DirToXML.application
+c:\users\actimel\documents\visual studio 2010\Projects\DirToXML\DirToXML\obj\x86\Debug\DirToXML.exe.manifest
+c:\users\actimel\documents\visual studio 2010\Projects\DirToXML\DirToXML\obj\x86\Debug\DirToXML.application
